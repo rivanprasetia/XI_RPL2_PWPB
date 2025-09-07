@@ -6,9 +6,9 @@ Materi disusun berdasarkan *Kurikulum Merdeka* dan mencakup dasar-dasar pembuata
 ---
 ## 📂 Materi & Tugas
 
-1. [HTML Dasar](materi/01_html_dasar/materi.md)  
-   ➝ [Tugas HTML Dasar](materi/01_html_dasar/tugas.md)
+1. [MATERI HTML Dasar](Materi/01_HMTL_DASAR/materi.md)  
+   ➝ [Tugas HTML Dasar](Materi/01_HMTL_DASAR/tugas.md)
 
-2. [CSS Dasar](materi/02_css_dasar/materi.md)  
-   ➝ [Tugas CSS Dasar](materi/02_css_dasar/tugas.md)
+2. [MATERI CSS Dasar](Materi/02_CSS_DASAR/materi.md)  
+   ➝ [Tugas CSS Dasar](Materi/02_CSS_DASAR/tugas.md)
 
