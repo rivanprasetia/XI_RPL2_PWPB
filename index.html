@@ -46,7 +46,7 @@
     <button type="submit" name="simpan">Simpan</button>
   </form>
 
-  <?php if(isset($_POST['simpan'])): ?>
+  <?php if(isset($_GET['simpan'])): ?>
     <h2>Output Data</h2>
     <table>
       <thead>
@@ -62,13 +62,13 @@
       </thead>
       <tbody>
         <tr>
-          <td><?= htmlspecialchars($_POST['nis']); ?></td>
-          <td><?= htmlspecialchars($_POST['nama']); ?></td>
-          <td><?= htmlspecialchars($_POST['kelas']); ?></td>
-          <td><?= htmlspecialchars($_POST['usia']); ?></td>
-          <td><?= htmlspecialchars($_POST['jk']); ?></td>
-          <td><?= htmlspecialchars($_POST['agama']); ?></td>
-          <td><?= htmlspecialchars($_POST['status']); ?></td>
+          <td><?= htmlspecialchars($_GET['nis']); ?></td>
+          <td><?= htmlspecialchars($_GET['nama']); ?></td>
+          <td><?= htmlspecialchars($_GET['kelas']); ?></td>
+          <td><?= htmlspecialchars($_GET['usia']); ?></td>
+          <td><?= htmlspecialchars($_GET['jk']); ?></td>
+          <td><?= htmlspecialchars($_GET['agama']); ?></td>
+          <td><?= htmlspecialchars($_GET['status']); ?></td>
         </tr>
       </tbody>
     </table>
