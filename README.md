@@ -4,4 +4,4 @@ Repositori ini berisi materi pembelajaran dan tugas untuk siswa kelas XI dalam m
 Materi disusun berdasarkan *Kurikulum Merdeka* dan mencakup dasar-dasar pembuatan website statis.
 
 ---
-TUGAS.md
+<a hreff="TUGAS.md">TUGAS.md
