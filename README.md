@@ -5,7 +5,10 @@ Materi disusun berdasarkan *Kurikulum Merdeka* dan mencakup dasar-dasar pembuata
 
 ---
 ## 📂 Materi & Tugas
+Tugas senin 8 Sep 2025, 6.30 wib - selesai
+silahkan kalian mengikuti langkah langkah berikut sesuai modul.
 
-[MATERI HTTP Method GET dan POS](Form_GET_POST.md)
+- [MATERI HTTP Method GET dan POS](Modul_HTTP_Method_GET_dan_POST.pdf)
+
 
 
