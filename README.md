@@ -17,4 +17,6 @@ Untuk upload tugas kalian dapat upload di google drive yang sudah saya buat
 • [Upload di Sini](https://drive.google.com/drive/folders/1o9q0FgGFLj0xFc9mh9-3A7DnboiA29vF)
 
 
+batas pengumpulan hari ini jam 1.15 terimakasih 
+
 
